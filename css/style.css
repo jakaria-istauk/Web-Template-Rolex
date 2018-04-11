@@ -1,0 +1,366 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 17, 2017, 10:02:09 PM
+    Author     : Jakaria
+*/
+.nav-size{
+    padding: 0 10%;
+}
+.logo-title i{
+    color: #fff;
+    padding: 5px;
+    font-size: 19px;
+    border: 2px solid #C34040;
+    border-radius: 6px;
+    float: left;
+}
+.logo-title span{
+    float: left;
+    font-size: 22px;
+    margin-left: 5px;
+    color: #fff;
+}
+.logo-title span .ltl{
+    font-size: 12px;
+     margin-left: 0px;
+}
+#part-2{
+    background-image: url(../img/RolexCover.jpg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+    color: #fff;
+}
+.nav-btn{
+    background: transparent;
+    color: #fff;
+    border: none;
+    font-size: 30px;
+}
+.nav-btn i{
+    transition: .5s;
+    padding-top: 15px;
+}
+.nav-bg{
+    background-color: rgba(0,0,0,.7);
+    padding-bottom: 10px;
+}
+.dropdown-menu{
+    background-color: rgba(0,0,0,.6);
+    padding:  0;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+}
+.dropdown-menu li a{
+    color: #fff !important;
+    transition: .5s;
+}
+.dropdown-menu li:hover a{
+    color: #000 !important;
+    padding-left: 34px;
+}
+.part2-content{
+    padding: 0 10%;
+}
+/*part 3 styleing*/ 
+#part-3{
+    padding: 100px 0 60px 0;
+}
+#part-3 i{
+    font-size: 30px;
+    transition: 1s;
+    padding: 30px;
+}
+#part-3 i:hover{
+    background-color: #E54C4C;
+    border-radius: 50%;
+    color: #fff;
+}
+#part-3 h4{
+    margin: 15px 0 15px 0;
+}
+#part-3 p{
+    font-size: 13px;
+}
+
+/*part-4 styling*/
+
+#part-4{
+    background-image: url(../img/Rolex2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+.p4-img{
+    padding-top: 30px;
+    height: 400px;
+}
+.p4-content{
+    color: #fff;
+    padding-top: 40px;
+}
+.p4-content p{
+    margin: 20px 0;
+}
+
+/*part-5 styleing*/ 
+
+#part-5{
+    padding: 60px 0;
+}
+.p5-hr{
+    margin-bottom: 60px;
+    width: 95%;
+}
+#part-5 a{
+    text-decoration: none;
+    color: #000;
+    margin: 150px;
+}
+#part-5 a i{
+    font-size: 50px;
+    transition: .4s;
+}
+#part-5 a:hover i{
+    color: #E54C4C;
+}
+#part-5 a p{
+    font-size: 12px;
+}
+
+/*part 6 styleing*/ 
+
+#part-6{
+    background-image: url(../img/Rolex3.jpg);
+    background-size: cover;
+    background-position: inherit;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+}
+#part-6 h2{
+    color: #fff;
+    margin-bottom: 50px;
+}
+.p6-img{
+    width: 60%;
+    margin-left: 20%;
+}
+
+/*part 7 styleing*/ 
+
+#part-7{
+    padding: 70px 0;
+}
+.p7-content i{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.p7-content p{
+    font-size: 12px;
+}
+.p7-content{
+    padding: 30px;
+    background-color: #000;
+    color: #fff;
+    transition: .5s;
+    border-radius: 4px;
+    margin: 20px 0;
+}
+.p7-content:hover{
+    background-color: #E54C4C;
+}
+
+/*part-8 styleing*/
+#part-8{
+   background-image: url(../img/Rolex5.jpg);
+    background-size: cover;
+    background-position: inherit;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    color: #fff;
+    padding-bottom: 50px;
+}
+.circle-bar1{
+    border: 20px solid #000;
+    border-left: 20px solid #fff;
+    border-radius: 190px;
+    height: 220px;
+    width: 220px;
+    padding: 16%;
+    font-size: 40px;
+}
+.circle-bar2{
+    border: 20px solid #fff;
+    border-right: 20px solid #000;
+    border-radius: 190px;
+    height: 220px;
+    width: 220px;
+    padding: 16%;
+    font-size: 40px;
+}
+.circle-bar3{
+    border: 20px solid #000;
+    border-left: 20px solid #fff;
+    border-bottom:  20px solid #fff;
+    border-radius: 190px;
+    height: 220px;
+    width: 220px;
+    padding: 16%;
+    font-size: 40px;
+}
+
+/*part-9 styleing*/
+
+#part-9{
+    padding: 50px 0px;
+}
+#part-9 hr{
+    width: 65%;
+    margin-bottom: 70px;
+}
+.team{
+    padding: 10px 50px;
+}
+.team img{
+    width: 70%;
+   margin-left: 17%;
+}
+.team p{
+    font-size: 12px;
+}
+.team h5{
+    margin-bottom: 20px;
+}
+ .social {
+	margin-top: 15px;
+                    padding-right: 20%;
+}
+.social ul{
+    margin-left: 0px;
+} 
+.social ul li {
+	display: inline-block;
+	margin: 0 10px;
+}
+ .social i.fa {
+	font-size: 22px;
+	padding: 5px;
+	color: #444;
+	transition: all 0.5s;
+}
+ .social i.fa:hover {
+	color: #000;
+}
+
+/*part-10 styleing*/
+
+#part-10{
+    padding: 30px;
+    background-color: #E54C4C;
+    color: #fff;
+}
+#part-10 p{
+ margin-top: 20px;
+ font-size: 16px;
+}
+#part-10 a{
+    color: #fff;
+    font-size: 20px;
+    margin-left: 10%;
+}
+
+/*part-11 styleing*/
+
+#part-11{
+    padding: 50px;
+    background-image: url(../img/footerbg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#part-11 input{
+    margin: 30px 0;
+}
+#part-11 textarea{
+    height: 200px;
+    margin-bottom: 30px;
+}
+.about-us{
+    margin-top: 40px;
+    color: #fff;
+}
+.about-us h2{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.about-us p{
+    margin-bottom: 160px;
+}
+.brand-logo{
+    margin-left: 39%;
+    display: inline-block;
+}
+ .footer-social {
+     margin-top: 50px;
+    margin-left: 30%;
+    padding-right: 20%;
+    color: #fff;
+}
+.footer-social ul{
+    margin-left: 0px;
+} 
+.footer-social ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+ .footer-social i.fa {
+    font-size: 22px;
+    padding: 5px;
+    color: #fff;
+    transition: all 0.5s;
+}
+ .footer-ocial fa:hover {
+    color: #000;
+}
+
+#part-12{
+    background-color: #000;
+    padding: 20px;
+    color: #fff;
+}
+@media screen and (max-width: 767px) {
+    .logo-width{
+        width: 95%;
+        float: left;
+    }
+    .menu-bar-width{
+        width: 5%;
+        float: right;
+    }
+    .circle-bar{
+        margin-bottom: 30px;
+        margin-left: 30%;
+        padding: 11%;
+    }
+}
+@media screen and (max-width: 551px) {
+    .brand-logo{
+    margin-left: 0%;
+    display: inline-block;
+}
+ .footer-social ul li {
+    margin: 0 0px;
+}
+ .footer-social {
+     margin-top: 50px;
+    margin-left: 0%;
+    padding-right: 0%;
+    color: #fff;
+}
+}
